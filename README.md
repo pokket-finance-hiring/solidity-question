@@ -11,7 +11,7 @@ You are not allowed to change any of the `libraries` code.
  
 Extend the GameRunner and contracts involved as required. 
 * Use Object Oriented Design and Modeling appropriately for extensibility.
-* Make the contracts easily upgradable, take, if we want to add more chess types or change the board size, we don't need to re-deploy the old game contracts.
+* Make the contracts easily upgradable, take, if we want to add more chess types, we don't need to re-deploy the old game contracts.
 * Implement the deployment process in deploy.ts
 * Add more unit tests if needed
 
